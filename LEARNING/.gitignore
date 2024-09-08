@@ -1,4 +1,12 @@
 Linklist/Linklist/Debug/*
+Linklist/Linklist/*.vcxproj.*
+Linklist/Linklist/*.vcxproj
 Linklist/Debug/*
 Linklist/.vs/*
+
+Heap/Heap/Debug/*
+Heap/Heap/*.vcxproj.*
+Heap/Heap/*.vcxproj
+Heap/Debug/*
+Heap/.vs/*
 
